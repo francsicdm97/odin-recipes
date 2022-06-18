@@ -1,0 +1,13 @@
+/* styles.css */
+
+  h1{
+    color: blueviolet;
+  }
+  
+  h2 {
+    color: green;
+  }
+
+  * {
+    border: 2px solid red;
+  }
